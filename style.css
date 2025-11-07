@@ -1,0 +1,23 @@
+.footer{
+    background: #f1e90a;
+    color: #290404;
+    padding: 40px 0;
+    font-family: sans-serif;
+}
+.text{
+    justify-content: center;
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+.ahref {
+    display: flex;
+    gap: 100px;
+    color: white;
+    align-items: center;
+    justify-content: center;
+}
+
+.ahref a{
+    color: white;
+    text-decoration: none;
+}
