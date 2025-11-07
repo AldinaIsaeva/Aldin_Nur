@@ -21,3 +21,31 @@
     color: white;
     text-decoration: none;
 }
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.dog {
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+    justify-content: center;
+    border: 10px solid orange;
+    background-color: yellow;
+}
+
+.dog img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease;
+}
+
+.dog img:hover {
+    transform: scale(1.05);
+}
