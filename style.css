@@ -13,7 +13,7 @@ body {
 
 main {
     width: 1500px;
-    height: 9400px;
+    height: 3850px;
     background-color: white;
     margin: 0 auto;
 }
@@ -45,8 +45,6 @@ main {
     line-height: 85px;
 }
 
-.pi {
-}
 .cool {
     width: 1200px;
     margin: 0 auto;
@@ -89,55 +87,64 @@ main {
     top: 50px;
     left: 900px;
 }
-.button{
-width: 275px;
-height: 60px;
-border-radius: 30px;
-box-shadow: 0px 5px 50px 0px rgba(255, 0, 67, 0.1);
-background: rgba(255, 0, 67, 1);
+
+.button {
+    width: 275px;
+    height: 60px;
+    border-radius: 30px;
+    box-shadow: 0px 5px 50px 0px rgba(255, 0, 67, 0.1);
+    background: rgba(255, 0, 67, 1);
 }
-.image{
-    position: relative;  
-    bottom: 600px;
-    left: 600px;
+
+.picture {
+    position: relative;
+    bottom: 50px;
 }
-.pp1{
+
+.pp1 {
     opacity: 0.5;
 }
-.pa{
+
+.pa {
     opacity: 0.8;
-color: rgba(0, 25, 74, 1);
-font-family: Roboto;
-font-size: 16px;
-font-weight: 300;
-line-height: 26px;
-letter-spacing: 0px;
-text-align: left;
+    color: rgba(0, 25, 74, 1);
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 26px;
+    letter-spacing: 0px;
+    text-align: left;
 }
-.content{
+
+.content {
     display: flex;
     gap: 80px;
     position: relative;
     bottom: 500px;
     left: 200px;
 }
-.aii{
-    position:relative;
+
+.aii {
+    position: relative;
     left: 250px;
     bottom: 25px;
 }
-.time{
+
+.time {
     position: relative;
     bottom: 400px;
 }
-.pa{
+
+.pa {
     opacity: 0.8;
 }
-.class{
+
+.class {
     position: relative;
     left: 850px;
     bottom: 550px;
 }
+
 .security {
     margin-left: 120px;
 }
